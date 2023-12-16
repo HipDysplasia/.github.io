@@ -1,2 +1,2 @@
-# .github.io
+# pentol.github.io
 website
